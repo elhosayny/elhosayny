@@ -1,16 +1,19 @@
-### Hi there 👋
+# Mohamed EL HOSAYNY - .NET Developer and React Developer 💻
 
-<!--
-**elhosayny/elhosayny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am a .NET developer with experience in building web and desktop applications using C# and .NET . I am also currently learning React and have some experience with it. 🚀
 
-Here are some ideas to get you started:
+## Skills 🧑‍💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proficient in C#, .NET, and the Microsoft stack 💻
+- Experience with ASP.NET MVC, WebAPI, and Entity Framework 🌐
+- Knowledge of design patterns and software architecture principles 🏛
+- Familiar with front-end technologies such as HTML, CSS, and JavaScript 🎨
+- Learning React and have some experience with it 🌟
+
+## Education 🎓
+
+- Master's Degree in Computer Science 🎓
+
+## Contact 📧
+
+Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/mohamed-elhosayny/). I am always open to discussing new opportunities and collaborating on projects. 🤝
